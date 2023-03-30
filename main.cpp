@@ -201,7 +201,7 @@ int main() {
     int a;
     string bio, DNA2, DNA3, k1, k2;
     while(true) {
-        cout << "Enter Your RNA:";
+        cout << " Enter Your RNA: ";
         cin >> bio;
         cout << "Enter Your DNA(S1):";
         cin >> DNA2;
