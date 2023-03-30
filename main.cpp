@@ -197,7 +197,7 @@ public:
 };
 //<<Main Function>>
 int main() {
-    cout << "<<Biology Experiment>>" << endl;
+    cout << "<< Biology Experiment >>" << endl;
     int a;
     string bio, DNA2, DNA3, k1, k2;
     while(true) {
